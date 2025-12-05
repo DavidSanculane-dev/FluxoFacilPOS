@@ -1,1 +1,0 @@
-User=SYSDBA;Password=masterkey;Database=C:\Users\David.Sanculane\Desktop\FLUXOFACIL.fdb;DataSource=localhost;Port=3050;Dialect=3;Charset=UTF8;

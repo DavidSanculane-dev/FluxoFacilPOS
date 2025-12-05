@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacilPOS.csproj|c:\\users\\david.sanculane\\onedrive - mota-engil\\ambiente de trabalho\\projectos software\\fluxofacilpos\\fluxofacilpos\\apresentacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacilPOS.csproj|solutionrelative:apresentacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacil.csproj|C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\apresentacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacil.csproj|solutionrelative:apresentacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacil.csproj|C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\apresentacao\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87EC489A-5458-4687-96F0-F61031CC43E3}|FluxoFacil.csproj|solutionrelative:apresentacao\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\Apresentacao\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\Apresentacao\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "Apresentacao\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:55:28.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\Apresentacao\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacil\\FluxoFacil\\Apresentacao\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\..\\FluxoFacil\\FluxoFacil\\Apresentacao\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:03:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacilPOS\\FluxoFacilPOS\\Apresentacao\\frmSplash.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\frmSplash.cs",
+              "ToolTip": "C:\\Users\\David.Sanculane\\OneDrive - Mota-Engil\\Ambiente de Trabalho\\PROJECTOS SOFTWARE\\FluxoFacil\\FluxoFacil\\Apresentacao\\frmSplash.cs [Design]",
+              "RelativeToolTip": "..\\..\\FluxoFacil\\FluxoFacil\\Apresentacao\\frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:56:52.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

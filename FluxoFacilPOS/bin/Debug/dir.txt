@@ -1,0 +1,1 @@
+User=SYSDBA;Password=masterkey;Database=C:\Users\David.Sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\FluxoFacilPOS\FluxoFacilPOS\bin\Debug\FLUXOFACIL.fdb;DataSource=localhost;Port=3050;Dialect=3;Charset=UTF8;
